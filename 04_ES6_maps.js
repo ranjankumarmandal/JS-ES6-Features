@@ -1,4 +1,5 @@
-// Maps - key value pair - can use any type as key or value
+// Maps can use its key of any type and objets key can be either symbol or string
+// Rest all, maps are same in low level architecture only syntax is different
 
 const map1 = new Map();
 
